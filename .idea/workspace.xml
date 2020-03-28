@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="889b17eb-4b52-4fef-b0d1-13c6edaebd8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Setup Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XaTTrFpMBtVJixAjWSYjk1EJF0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.search">
+    <configuration name="search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="Path" value="C:\Program Files (x86)\Python38-32\Scripts\;C:\Program Files (x86)\Python38-32\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files (x86)\Java\jdk1.8.0_144\bin\;C:\jython2.7.0;F:\Program Files\MATLAB\R2017b\runtime\win64;F:\Program Files\MATLAB\R2017b\bin;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files (x86)\Android\platform-tools;C:\Gradle\gradle-5.4.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Python31;C:\Users\MARTINS\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Java\jdk1.8.0_144\bin\;C:\jython2.7.0;C:\Program Files (x86)\Android\platform-tools;C:\Python31\;;C:\Program Files\JetBrains\PyCharm Community Edition with Anaconda plugin 2019.3.2\bin;" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.search" />
+      <item itemvalue="Python.setup" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.search" />
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889b17eb-4b52-4fef-b0d1-13c6edaebd8b" name="Default Changelist" comment="" />
+      <created>1581283218402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581283218402</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583246332009">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1583246332009" />
+    <state x="417" y="146" key="EnvironmentVariablesDialog" timestamp="1583234119664">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="146" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1583234119664" />
+    <state x="462" y="142" key="FileChooserDialogImpl" timestamp="1581283866011">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="142" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581283866011" />
+    <state width="1345" height="517" key="GridCell.Tab.0.bottom" timestamp="1585329177996">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="517" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585329177996" />
+    <state width="1345" height="517" key="GridCell.Tab.0.center" timestamp="1585329177996">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="517" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585329177996" />
+    <state width="1345" height="517" key="GridCell.Tab.0.left" timestamp="1585329177951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="517" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585329177951" />
+    <state width="1345" height="517" key="GridCell.Tab.0.right" timestamp="1585329177996">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="517" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585329177996" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581285368230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581285368230" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1581285368230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581285368230" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1581285368230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581285368230" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1581285368230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581285368230" />
+    <state x="186" y="30" key="SettingsEditor" timestamp="1582974073109">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="186" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582974073109" />
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1583234081212">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="212" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583234081212" />
+  </component>
+</project>
